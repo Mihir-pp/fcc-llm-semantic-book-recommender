@@ -1,0 +1,20 @@
+name: books
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - kagglehub
+      - pandas
+      - matplotlib
+      - seaborn
+      - python-dotenv
+      - langchain-community
+      - langchain-opencv
+      - langchain-chroma
+      - transformers
+      - gradio
+      - notebook
+      - ipywidgets

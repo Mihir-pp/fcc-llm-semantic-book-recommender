@@ -21,7 +21,7 @@ This project provides an `environment.yml` file to set up dependencies.
 
 ```bash
 conda env create -f environment.yml
-conda activate semantic-book-recommender
+conda activate books
 ```
 
 ### Step 3: Download Necessary Data

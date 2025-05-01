@@ -1,6 +1,6 @@
 # Semantic Book Recommender ([website link](https://huggingface.co/spaces/HugAcc1/llm-semantic-book-recommender))
 The project includes multiple components, such as text data cleaning, vector search, text classification, sentiment analysis, and a Gradio-based web application.
-[website link](https://huggingface.co/spaces/HugAcc1/llm-semantic-book-recommender)
+
 
 ## Installation and Setup
 
